@@ -1,13 +1,13 @@
-url: https://chickensmitten.github.io
-baseurl: /agency
+url: https://heydavid-dev.github.io
+baseurl: /creating-a-new-website-189
 
 # Site settings
-header_title: Welcome To Our Agency
-header_subtitle: It's Nice to be Friends
+header_title: Awesome Website
+header_subtitle: It's Nice to Have You Around
 
 title: Awesome Title
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "This is to create a new website"
 
 
 # Team names, titles and social links
