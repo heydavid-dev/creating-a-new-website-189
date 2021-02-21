@@ -16,11 +16,11 @@ people:
   pic: 1
   position: Coder
   social:
-    - title: i
+    - title: facebook
       url: 1
-    - title: b
+    - title: linkedin
       url: 2
-    - title: d
+    - title: pinterest
       url: 3
 
 - name: team Larry
