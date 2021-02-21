@@ -27,22 +27,22 @@ people:
   pic: 2
   position: Manager
   social:
-    - title: g
+    - title: google-plus
       url: 1
-    - title: y
+    - title: bitbucket
       url: 2
-    - title: v
+    - title: github
       url: 3
 
 - name: team diana
   pic: 3
   position: Artist
   social:
-    - title: p
+    - title: whatsapp
       url: 1
-    - title: w
+    - title: google-plus
       url: 2
-    - title: s
+    - title: stack-overflow
       url: 3
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
