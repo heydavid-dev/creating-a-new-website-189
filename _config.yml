@@ -18,9 +18,9 @@ people:
   social:
     - title: instagram
       url: 1
-    - title: mail
+    - title: bitcoin
       url: 2
-    - title: email
+    - title: dropbox
       url: 3
 
 - name: team Larry
@@ -29,9 +29,9 @@ people:
   social:
     - title: google-plus
       url: 1
-    - title: website
+    - title: youtube
       url: 2
-    - title: linked
+    - title: vimeo
       url: 3
 
 - name: team diana
@@ -42,7 +42,7 @@ people:
       url: 1
     - title: whatsapp
       url: 2
-    - title: telegram
+    - title: slack
       url: 3
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
