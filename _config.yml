@@ -43,7 +43,7 @@ people:
     - title: google-plus
       url: 2
     - title: stack-overflow
-      url: 3
+      url: https://google.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
