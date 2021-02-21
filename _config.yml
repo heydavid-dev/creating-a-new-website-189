@@ -42,7 +42,7 @@ people:
       url: 1
     - title: linkedin
       url: 2
-    - title: twitter
+    - title: ["website"]
       url: 3
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
