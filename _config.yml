@@ -12,38 +12,38 @@ description: "This is to create a new website"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: team Kay
   pic: 1
-  position: Lead Designer
+  position: Coder
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: 
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
-
-- name: 
-  pic: 3
-  position: Lead Developer
-  social:
+      url: 1
     - title: twitter
-      url: #
+      url: 2
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: 3
+
+- name: team Larry
+  pic: 2
+  position: Manager
+  social:
+    - title: linkedin
+      url: 1
+    - title: twitter
+      url: 2
+    - title: facebook
+      url: 3
+
+- name: team diana
+  pic: 3
+  position: Artist
+  social:
+    - title: facebook
+      url: 1
+    - title: linkedin
+      url: 2
+    - title: twitter
+      url: 3
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
