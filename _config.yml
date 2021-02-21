@@ -16,33 +16,33 @@ people:
   pic: 1
   position: Coder
   social:
-    - title: linkedin
+    - title: instagram
       url: 1
-    - title: twitter
+    - title: mail
       url: 2
-    - title: facebook
+    - title: email
       url: 3
 
 - name: team Larry
   pic: 2
   position: Manager
   social:
-    - title: linkedin
+    - title: google-plus
       url: 1
-    - title: twitter
+    - title: website
       url: 2
-    - title: facebook
+    - title: linked
       url: 3
 
 - name: team diana
   pic: 3
   position: Artist
   social:
-    - title: facebook
+    - title: pinterest
       url: 1
-    - title: linkedin
+    - title: whatsapp
       url: 2
-    - title: ["website"]
+    - title: telegram
       url: 3
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
