@@ -16,33 +16,33 @@ people:
   pic: 1
   position: Coder
   social:
-    - title: instagram
+    - title: i
       url: 1
-    - title: bitcoin
+    - title: b
       url: 2
-    - title: dropbox
+    - title: d
       url: 3
 
 - name: team Larry
   pic: 2
   position: Manager
   social:
-    - title: google-plus
+    - title: g
       url: 1
-    - title: youtube
+    - title: y
       url: 2
-    - title: vimeo
+    - title: v
       url: 3
 
 - name: team diana
   pic: 3
   position: Artist
   social:
-    - title: pinterest
+    - title: p
       url: 1
-    - title: whatsapp
+    - title: w
       url: 2
-    - title: slack
+    - title: s
       url: 3
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
